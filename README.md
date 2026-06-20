@@ -56,9 +56,9 @@ A modern desktop web browser that supports HTML5 Web Storage capabilities (Chrom
 3. **Open the project:**
     Simply open the index.html file inside your preferred web browser.
 
-### 📂 Project Structure
+## 📂 Project Structure
 ├── index.html                  # Single-file entry point containing HTML, CSS, and JS Logic
 └── README.md                   # Project documentation
 
-### 👩‍💻 Author
+## 👩‍💻 Author
 GitHub: @jjiyyaaa
